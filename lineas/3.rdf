@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/3.rdf">
+    <dc:name>OJAIZ-SARDINERO/UNI/P.PEREDA</dc:name>
+    <ayto:linea>3</ayto:linea>
+    <dc:identifier>3</dc:identifier>
+    <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>

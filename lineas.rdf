@@ -4,36 +4,40 @@ xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/71.rdf">
-    <dc:name>LUIS QUINTANILLA C1</dc:name>
-    <ayto:linea>7C1</ayto:linea> <!-- antes ayto:numero -->
-    <dc:identifier>71</dc:identifier>
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf">
+    <dc:name>A.ODRIOZOLA-PCTCAN/ADARZO</dc:name>
+    <ayto:linea>1</ayto:linea> <!-- antes ayto:numero -->
+    <dc:identifier>1</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/4.rdf">
-    <dc:name>B.PESQUERO-INT.SARDINERO/UNI</dc:name>
-    <ayto:linea>4</ayto:linea>
-    <dc:identifier>4</dc:identifier>
-    <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
-</rdf:Description>
-<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/3.rdf">
-    <dc:name>OJAIZ-SARDINERO/UNI/P.PEREDA</dc:name>
-    <ayto:linea>3</ayto:linea>
-    <dc:identifier>3</dc:identifier>
-    <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
-</rdf:Description>
-<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/2.rdf">
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/2.rdf">
     <dc:name>CORBAN-CONSUELO BERGES</dc:name>
     <ayto:linea>2</ayto:linea>
     <dc:identifier>2</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/1.rdf">
-    <dc:name>A.ODRIOZOLA-PCTCAN/ADARZO</dc:name>
-    <ayto:linea>1</ayto:linea>
-    <dc:identifier>1</dc:identifier>
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/3.rdf">
+    <dc:name>OJAIZ-SARDINERO/UNI/P.PEREDA</dc:name>
+    <ayto:linea>3</ayto:linea>
+    <dc:identifier>3</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
 </rdf:Description>
 
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/4.rdf">
+    <dc:name>B.PESQUERO-INT.SARDINERO/UNI</dc:name>
+    <ayto:linea>4</ayto:linea>
+    <dc:identifier>4</dc:identifier>
+    <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/71.rdf">
+    <dc:name>LUIS QUINTANILLA C1</dc:name>
+    <ayto:linea>7C1</ayto:linea> <!-- antes ayto:numero -->
+    <dc:identifier>71</dc:identifier>
+    <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
 
 </rdf:RDF>
