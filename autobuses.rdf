@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <ayto:matricula>0000AAA</ayto:matricula>
+    <dc:identifier>1</dc:identifier>
+    <ayto:plazas>30</ayto:plazas>
+    <ayto:plazasPMR>1</ayto:plazasPMR>
+    <ayto:linea>1</ayto:linea>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <ayto:matricula>0001AAA</ayto:matricula>
+    <dc:identifier>2</dc:identifier>
+    <ayto:plazas>28</ayto:plazas>
+    <ayto:plazasPMR>2</ayto:plazasPMR>
+    <ayto:linea>1</ayto:linea>
+</rdf:Description>
+
+</rdf:RDF>

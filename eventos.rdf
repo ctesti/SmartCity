@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <dc:identifier>1</dc:identifier>
+    <ayto:tipo>parada</ayto:tipo>
+    <ayto:personas>20</ayto:personas>
+    <ayto:personasPMR>0</ayto:personasPMR>
+    <ayto:parada>3</ayto:parada>
+    <ayto:linea>1</ayto:linea>
+    <xsd:datetime>2020-01-13T12:00:00</xsd:datetime>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <dc:identifier>2</dc:identifier>
+    <ayto:tipo>parada</ayto:tipo>
+    <ayto:personas>23</ayto:personas>
+    <ayto:personasPMR>0</ayto:personasPMR>
+    <ayto:parada>4</ayto:parada>
+    <ayto:linea>1</ayto:linea>
+    <xsd:datetime>2020-01-13T12:02:00</xsd:datetime>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <dc:identifier>3</dc:identifier>
+    <ayto:tipo>parada</ayto:tipo>
+    <ayto:personas>19</ayto:personas>
+    <ayto:personasPMR>1</ayto:personasPMR>
+    <ayto:parada>5</ayto:parada>
+    <ayto:linea>1</ayto:linea>
+    <xsd:datetime>2020-01-13T12:05:00</xsd:datetime>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <dc:identifier>4</dc:identifier>
+    <ayto:tipo>parada</ayto:tipo>
+    <ayto:personas>13</ayto:personas>
+    <ayto:personasPMR>1</ayto:personasPMR>
+    <ayto:parada>6</ayto:parada>
+    <ayto:linea>1</ayto:linea>
+    <xsd:datetime>2020-01-13T12:07:00</xsd:datetime>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+    <dc:identifier>5</dc:identifier>
+    <ayto:tipo>parada</ayto:tipo>
+    <ayto:personas>20</ayto:personas>
+    <ayto:personasPMR>1</ayto:personasPMR>
+    <ayto:parada>7</ayto:parada>
+    <ayto:linea>1</ayto:linea>
+    <xsd:datetime>2020-01-13T12:11:00</xsd:datetime>
+</rdf:Description>
+
+</rdf:RDF>

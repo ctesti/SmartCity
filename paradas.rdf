@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:gn="http://www.geonames.org/ontology#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:vivo="http://vivoweb.org/ontology/core#"
+>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/52661.rdf">
+    <dc:name>Intercambiador del Sardinero</dc:name> <!-- antes ayto:parada -->
+    <ayto:parada>516</ayto:parada>  <!-- antes ayto:numero -->
+    <gn:coordY>4814377.655</gn:coordY>  <!-- COORD_Y -->
+    <gn:coordX>436106.4445</gn:coordX>  <!-- COORD_X -->
+    <vivo:address1>Avenida de Pontejos</vivo:address1>  <!-- DIRECCION -->
+    <dc:identifier>52661</dc:identifier>  <!-- ID -->
+    <dc:modified>2019-12-16T19:02:15.922Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/144.rdf">
+    <dc:name>Jose M&#170; Cossio. 54</dc:name>
+    <ayto:parada>3</ayto:parada>
+    <gn:coordY>4812342.77</gn:coordY>
+    <gn:coordX>431463.8508</gn:coordX>
+    <vivo:address1>Jose Maria Cossio. 54</vivo:address1>
+    <dc:identifier>144</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.147Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/145.rdf">
+    <dc:name>Jose Maria Cossio 33</dc:name>
+    <ayto:parada>4</ayto:parada>
+    <gn:coordY>4812386.0704</gn:coordY>
+    <gn:coordX>431648.917</gn:coordX>
+    <vivo:address1>Jose M&#170; Cossio  n&#186; 33</vivo:address1>
+    <dc:identifier>145</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.147Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/146.rdf">
+    <dc:name>Jose Maria Cossio 17</dc:name>
+    <ayto:parada>5</ayto:parada>
+    <gn:coordY>4812414.5903</gn:coordY>
+    <gn:coordX>431900.4758</gn:coordX>
+    <vivo:address1>Jose M&#170; Cossio 17</vivo:address1>
+    <dc:identifier>146</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/147.rdf">
+    <dc:name>Jose Maria Cossio 1</dc:name>
+    <ayto:parada>6</ayto:parada>
+    <gn:coordY>4812415.3897</gn:coordY>
+    <gn:coordX>432079.962</gn:coordX>
+    <vivo:address1>Jose M&#170; cossio 1</vivo:address1>
+    <dc:identifier>147</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/148.rdf">
+    <dc:name>Manuel Llano</dc:name>
+    <ayto:parada>7</ayto:parada>
+    <gn:coordY>4812220.9452</gn:coordY>
+    <gn:coordX>432055.0521</gn:coordX>
+    <vivo:address1>Plaza Manuel LLano</vivo:address1>
+    <dc:identifier>148</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/149.rdf">
+    <dc:name>Instituto Torres Quevedo</dc:name>
+    <ayto:parada>8</ayto:parada>
+    <gn:coordY>4812112.4612</gn:coordY>
+    <gn:coordX>432433.4061</gn:coordX>
+    <vivo:address1>Torres Quevedo. 5</vivo:address1>
+    <dc:identifier>149</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/316.rdf">
+    <dc:name>Valdecilla</dc:name>
+    <ayto:parada>9</ayto:parada>
+    <gn:coordY>4812149.0103</gn:coordY>
+    <gn:coordX>432951.5442</gn:coordX>
+    <vivo:address1>Avenida de Valdecilla</vivo:address1>
+    <dc:identifier>316</dc:identifier>
+    <dc:modified>2019-12-16T19:02:14.054Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/150.rdf">
+    <dc:name>Cuatro Caminos</dc:name>
+    <ayto:parada>10</ayto:parada>
+    <gn:coordY>4812298.0927</gn:coordY>
+    <gn:coordX>433332.9666</gn:coordX>
+    <vivo:address1>San Fernando frente n&#186; 78</vivo:address1>
+    <dc:identifier>150</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/129.rdf">
+    <dc:name>San Fernando</dc:name>
+    <ayto:parada>11</ayto:parada>
+    <gn:coordY>4812459.3555</gn:coordY>
+    <gn:coordX>433774.0407</gn:coordX>
+    <vivo:address1>San Fernando frente n&#186; 22</vivo:address1>
+    <dc:identifier>129</dc:identifier>
+    <dc:modified>2019-12-16T19:02:10.812Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/151.rdf">
+    <dc:name>Jesus de Monasterio 21</dc:name>
+    <ayto:parada>12</ayto:parada>
+    <gn:coordY>4812617.1079</gn:coordY>
+    <gn:coordX>434383.5001</gn:coordX>
+    <vivo:address1>Jesus de Monasterio 21</vivo:address1>
+    <dc:identifier>151</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/152.rdf">
+<dc:name>Ayuntamiento</dc:name>
+    <ayto:parada>13</ayto:parada>
+    <gn:coordY>4812586.6364</gn:coordY>
+    <gn:coordX>434576.7571</gn:coordX>
+    <vivo:address1>Jesus de Monasterio</vivo:address1>
+    <dc:identifier>152</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.27Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/153.rdf">
+    <dc:name>Correos</dc:name>
+    <ayto:parada>14</ayto:parada>
+    <gn:coordY>4812585.0755</gn:coordY>
+    <gn:coordX>434861.287</gn:coordX>
+    <vivo:address1>Correos</vivo:address1>
+    <dc:identifier>153</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.27Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/154.rdf">
+    <dc:name>Jardines de Pereda</dc:name>
+    <ayto:parada>15</ayto:parada>
+    <gn:coordY>4812609.8756</gn:coordY>
+    <gn:coordX>435103.725</gn:coordX>
+    <vivo:address1>Paseo de pereda</vivo:address1>
+    <dc:identifier>154</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.27Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/164.rdf">
+    <dc:name>Puertochico</dc:name>
+    <ayto:parada>16</ayto:parada>
+    <gn:coordY>4812655.3955</gn:coordY>
+    <gn:coordX>435599.7314</gn:coordX>
+    <vivo:address1>C/ Muelle de Calderon</vivo:address1>
+    <dc:identifier>164</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.416Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/214.rdf">
+    <dc:name>Castelar</dc:name>
+    <ayto:parada>17</ayto:parada>
+    <gn:coordY>4812715.1614</gn:coordY>
+    <gn:coordX>435963.618</gn:coordX>
+    <vivo:address1>Castelar 29</vivo:address1>
+    <dc:identifier>214</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.879Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/165.rdf">
+    <dc:name>Reina Victoria 18</dc:name>
+    <ayto:parada>18</ayto:parada>
+    <gn:coordY>4812788.3749</gn:coordY>
+    <gn:coordX>436336.4978</gn:coordX>
+    <vivo:address1>Reina Victoria 18</vivo:address1>
+    <dc:identifier>165</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.416Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/166.rdf">
+    <dc:name>Avenida Reina Victoria </dc:name>
+    <ayto:parada>19</ayto:parada>
+    <gn:coordY>4812904.9478</gn:coordY>
+    <gn:coordX>436782.7411</gn:coordX>
+    <vivo:address1>Reina Victoria</vivo:address1>
+    <dc:identifier>166</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.416Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/167.rdf">
+    <dc:name>Gonzalez Riancho</dc:name>
+    <ayto:parada>20</ayto:parada>
+    <gn:coordY>4813101.0766</gn:coordY>
+    <gn:coordX>437060.2641</gn:coordX>
+    <vivo:address1>Reina Victoria S/N</vivo:address1>
+    <dc:identifier>167</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/168.rdf">
+    <dc:name>La Magdalena</dc:name>
+    <ayto:parada>21</ayto:parada>
+    <gn:coordY>4813366.4679</gn:coordY>
+    <gn:coordX>437302.2444</gn:coordX>
+    <vivo:address1>Reina Victoria</vivo:address1>
+    <dc:identifier>168</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/169.rdf">
+    <dc:name>Luis Martinez</dc:name>
+    <ayto:parada>22</ayto:parada>
+    <gn:coordY>4813630.9192</gn:coordY>
+    <gn:coordX>437132.1316</gn:coordX>
+    <vivo:address1>Reina Victoria</vivo:address1>
+    <dc:identifier>169</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/170.rdf">
+    <dc:name>Plaza de Italia</dc:name>
+    <ayto:parada>23</ayto:parada>
+    <gn:coordY>4813753.4593</gn:coordY>
+    <gn:coordX>436848.7842</gn:coordX>
+    <vivo:address1>Reina Victoria n&#186; 3</vivo:address1>
+    <dc:identifier>170</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/171.rdf">
+    <dc:name>Piquio </dc:name>
+    <ayto:parada>24</ayto:parada>
+    <gn:coordY>4813991.1318</gn:coordY>
+    <gn:coordX>436607.1476</gn:coordX>
+    <vivo:address1>Avda Casta&#241;eda</vivo:address1>
+    <dc:identifier>171</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/paradas_bus/172.rdf">
+    <dc:name>Doctor Fleming </dc:name>
+    <ayto:parada>25</ayto:parada>
+    <gn:coordY>4814143.5521</gn:coordY>
+    <gn:coordX>436358.4517</gn:coordX>
+    <vivo:address1>Avda Casta&#241;eda</vivo:address1>
+    <dc:identifier>172</dc:identifier>
+    <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
+</rdf:Description>
+
+</rdf:RDF>
