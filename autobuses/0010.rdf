@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0010.rdf">
+    <ayto:matricula>0010AAA</ayto:matricula>
+    <dc:identifier>0010</dc:identifier>
+    <ayto:plazas>30</ayto:plazas>
+    <ayto:plazasPMR>1</ayto:plazasPMR>
+    <ayto:linea>1</ayto:linea>
+</rdf:Description>
+
+</rdf:RDF>
