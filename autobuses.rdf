@@ -4,7 +4,7 @@ xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus_paradas/3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0000AAA.rdf">
     <ayto:matricula>0000AAA</ayto:matricula>
     <dc:identifier>1</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
