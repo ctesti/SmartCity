@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120000-1-3.rdf">
+    <dc:identifier>20200113120000-1-3</dc:identifier>
+    <ayto:parada>3</ayto:parada>
+    <ayto:linea>1</ayto:linea>
+    <ayto:sentido>ida</ayto:sentido>
+    <xsd:datetime>2020-01-13T12:00:00</xsd:datetime>
+</rdf:Description>
+
+</rdf:RDF>

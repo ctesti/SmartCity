@@ -5,49 +5,39 @@ xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
 >
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/eventos/20200113120000-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120000-1-3.rdf">
     <dc:identifier>20200113120000-1-3</dc:identifier>
-    <ayto:tipo>parada</ayto:tipo>
-    <ayto:personas>20</ayto:personas>
-    <ayto:personasPMR>0</ayto:personasPMR>
     <ayto:parada>3</ayto:parada>
     <ayto:linea>1</ayto:linea>
+    <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:00:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/eventos/20200113120200-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120200-1-3.rdf">
     <dc:identifier>20200113120200-1-3</dc:identifier>
-    <ayto:tipo>parada</ayto:tipo>
-    <ayto:personas>23</ayto:personas>
-    <ayto:personasPMR>0</ayto:personasPMR>
     <ayto:parada>4</ayto:parada>
     <ayto:linea>1</ayto:linea>
+    <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:02:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/eventos/20200113120500-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120500-1-3.rdf">
     <dc:identifier>20200113120500-1-3</dc:identifier>
-    <ayto:tipo>parada</ayto:tipo>
-    <ayto:personas>19</ayto:personas>
-    <ayto:personasPMR>1</ayto:personasPMR>
     <ayto:parada>5</ayto:parada>
     <ayto:linea>1</ayto:linea>
+    <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:05:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/eventos/20200113120700-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120700-1-3.rdf">
     <dc:identifier>20200113120700-1-3</dc:identifier>
-    <ayto:tipo>parada</ayto:tipo>
-    <ayto:personas>13</ayto:personas>
-    <ayto:personasPMR>1</ayto:personasPMR>
     <ayto:parada>6</ayto:parada>
     <ayto:linea>1</ayto:linea>
+    <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:07:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/eventos/20200113121100-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113121100-1-3.rdf">
     <dc:identifier>20200113121100-1-3</dc:identifier>
-    <ayto:tipo>parada</ayto:tipo>
-    <ayto:personas>20</ayto:personas>
-    <ayto:personasPMR>1</ayto:personasPMR>
     <ayto:parada>7</ayto:parada>
     <ayto:linea>1</ayto:linea>
+    <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:11:00</xsd:datetime>
 </rdf:Description>
 
