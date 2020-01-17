@@ -7,6 +7,8 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf">
     <dc:name>A.ODRIOZOLA-PCTCAN/ADARZO</dc:name>
+    <ayto:origen>A.ODRIOZOLA</ayto:origen>
+    <ayto:destino>PCTCAN/ADARZO</ayto:destino>
     <ayto:linea>1</ayto:linea> <!-- antes ayto:numero -->
     <dc:identifier>1</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
@@ -14,6 +16,8 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/2.rdf">
     <dc:name>CORBAN-CONSUELO BERGES</dc:name>
+    <ayto:origen>CORBAN</ayto:origen>
+    <ayto:destino>CONSUELO BERGES</ayto:destino>
     <ayto:linea>2</ayto:linea>
     <dc:identifier>2</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
@@ -21,6 +25,8 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/3.rdf">
     <dc:name>OJAIZ-SARDINERO/UNI/P.PEREDA</dc:name>
+    <ayto:origen>OJAIZ</ayto:origen>
+    <ayto:destino>SARDINERO/UNI/P.PEREDA</ayto:destino>
     <ayto:linea>3</ayto:linea>
     <dc:identifier>3</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
@@ -28,15 +34,10 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/4.rdf">
     <dc:name>B.PESQUERO-INT.SARDINERO/UNI</dc:name>
+    <ayto:origen>B.PESQUERO</ayto:origen>
+    <ayto:destino>INT.SARDINERO/UNI</ayto:destino>
     <ayto:linea>4</ayto:linea>
     <dc:identifier>4</dc:identifier>
-    <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
-</rdf:Description>
-
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/lineas/71.rdf">
-    <dc:name>LUIS QUINTANILLA C1</dc:name>
-    <ayto:linea>7C1</ayto:linea> <!-- antes ayto:numero -->
-    <dc:identifier>71</dc:identifier>
     <dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
 </rdf:Description>
 
