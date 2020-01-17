@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:gn="http://www.geonames.org/ontology#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:vivo="http://vivoweb.org/ontology/core#"
+>
+
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/144.rdf">
+    <dc:name>Jose M&#170; Cossio. 54</dc:name>
+    <ayto:parada>3</ayto:parada>
+    <gn:coordY>4812342.77</gn:coordY>
+    <gn:coordX>431463.8508</gn:coordX>
+    <vivo:address1>Jose Maria Cossio. 54</vivo:address1>
+    <dc:identifier>144</dc:identifier>
+    <dc:modified>2019-12-16T19:02:11.147Z</dc:modified>
+</rdf:Description>
+
+
+</rdf:RDF>
