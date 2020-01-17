@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_100000.rdf">
+    <xsd:time>10:00:00</xsd:time>
+    <ayto:parada>3</ayto:parada> <!-- antes ayto:idParada-->
+    <dc:identifier>3_1_100000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_101000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_101000.rdf">
+    <xsd:time>10:10:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_101000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_102000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_102000.rdf">
+    <xsd:time>10:20:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_102000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_103000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_103000.rdf">
+    <xsd:time>10:30:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_103000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_104000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_104000.rdf">
+    <xsd:time>10:40:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_104000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_105000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_105000.rdf">
+    <xsd:time>10:50:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_105000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_110000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_110000.rdf">
+    <xsd:time>11:00:00</xsd:time>
+    <ayto:parada>3</ayto:parada> <!-- antes ayto:idParada-->
+    <dc:identifier>3_1_110000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_111000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_111000.rdf">
+    <xsd:time>11:10:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_111000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_112000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_112000.rdf">
+    <xsd:time>11:20:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_112000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_113000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_113000.rdf">
+    <xsd:time>11:30:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_113000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_114000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_114000.rdf">
+    <xsd:time>11:40:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_114000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_115000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_115000.rdf">
+    <xsd:time>11:50:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_115000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_120000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_120000.rdf">
+    <xsd:time>12:00:00</xsd:time>
+    <ayto:parada>3</ayto:parada> <!-- antes ayto:idParada-->
+    <dc:identifier>3_1_120000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_121000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_121000.rdf">
+    <xsd:time>12:10:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_121000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_122000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_122000.rdf">
+    <xsd:time>12:20:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_122000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_123000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_123000.rdf">
+    <xsd:time>12:30:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_123000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_124000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_124000.rdf">
+    <xsd:time>12:40:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_124000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_125000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_125000.rdf">
+    <xsd:time>12:50:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_125000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_130000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_130000.rdf">
+    <xsd:time>13:00:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_130000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_131000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_131000.rdf">
+    <xsd:time>13:10:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_131000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_140000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_140000.rdf">
+    <xsd:time>14:00:00</xsd:time>
+    <ayto:parada>3</ayto:parada> <!-- antes ayto:idParada-->
+    <dc:identifier>3_1_140000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_141000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_141000.rdf">
+    <xsd:time>14:10:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_141000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_142000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_142000.rdf">
+    <xsd:time>14:20:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_142000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_143000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_143000.rdf">
+    <xsd:time>14:30:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_143000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_144000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_144000.rdf">
+    <xsd:time>14:40:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_144000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_145000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_145000.rdf">
+    <xsd:time>14:50:00</xsd:time>
+    <ayto:parada>3</ayto:parada>
+    <dc:identifier>3_1_125000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_100000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+
+</rdf:RDF>

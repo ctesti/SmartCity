@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_100000.rdf">
+    <xsd:time>10:00:00</xsd:time>
+    <ayto:parada>3</ayto:parada> <!-- antes ayto:idParada-->
+    <dc:identifier>3_1_100000</dc:identifier>
+    <ayto:linea>1</ayto:linea>
+    <ayto:hora_siguiente>3_1_101000</ayto:hora_siguiente>
+    <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
+</rdf:Description>
+
+
+</rdf:RDF>
