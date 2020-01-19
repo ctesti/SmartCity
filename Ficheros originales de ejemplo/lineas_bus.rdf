@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:ayto="http://datos.santander.es#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+><rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/71.rdf"><dc:name>LUIS QUINTANILLA C1</dc:name>
+<ayto:numero>7C1</ayto:numero>
+<dc:identifier>71</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/62.rdf"><dc:name>COMPLEJO RUTH BEITIA C2</dc:name>
+<ayto:numero>6C2</ayto:numero>
+<dc:identifier>62</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/61.rdf"><dc:name>COMPLEJO C1</dc:name>
+<ayto:numero>6C1</ayto:numero>
+<dc:identifier>61</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/52.rdf"><dc:name>MIRANDA/PLZ. ITALIA C2</dc:name>
+<ayto:numero>5C2</ayto:numero>
+<dc:identifier>52</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/51.rdf"><dc:name>MIRANDA/PLZ. ITALIA C1</dc:name>
+<ayto:numero>5C1</ayto:numero>
+<dc:identifier>51</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/47.rdf"><dc:name>J.M.COSSIO-AGUSTINOS</dc:name>
+<ayto:numero>E7</ayto:numero>
+<dc:identifier>47</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/44.rdf"><dc:name>SE SAN MARTIN-INSTITUTOS</dc:name>
+<ayto:numero>E4</ayto:numero>
+<dc:identifier>44</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/43.rdf"><dc:name>SE MIRANDA-INSTITUTOS</dc:name>
+<ayto:numero>E3</ayto:numero>
+<dc:identifier>43</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/42.rdf"><dc:name>S.E. INTERMODAL</dc:name>
+<ayto:numero>E2</ayto:numero>
+<dc:identifier>42</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/41.rdf"><dc:name>INT.VALDECILLA- INT.SARDINERO</dc:name>
+<ayto:numero>E1</ayto:numero>
+<dc:identifier>41</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/31.rdf"><dc:name>ALISAL-INT.SARDINERO</dc:name>
+<ayto:numero>E31</ayto:numero>
+<dc:identifier>31</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/23.rdf"><dc:name>ESTACIONES-PCTCAN</dc:name>
+<ayto:numero>23</ayto:numero>
+<dc:identifier>23</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/21.rdf"><dc:name>CENTRO DE SALUD-PUERTOCHICO</dc:name>
+<ayto:numero>21</ayto:numero>
+<dc:identifier>21</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/20.rdf"><dc:name>PZA. ESTACIONES/REPUENTE 15</dc:name>
+<ayto:numero>20</ayto:numero>
+<dc:identifier>20</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/19.rdf"><dc:name>ESTACIONES-RICARDO L. ARANDA</dc:name>
+<ayto:numero>19</ayto:numero>
+<dc:identifier>19</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/18.rdf"><dc:name>PUERTOCHICO-CORBANERA/CASTILLO</dc:name>
+<ayto:numero>18</ayto:numero>
+<dc:identifier>18</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/17.rdf"><dc:name>PZA.ESTACIONES-CORBAN/CIRIEGO</dc:name>
+<ayto:numero>17</ayto:numero>
+<dc:identifier>17</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/16.rdf"><dc:name>PLAZA DE LOS REMEDIOS</dc:name>
+<ayto:numero>16</ayto:numero>
+<dc:identifier>16</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/15.rdf"><dc:name>ESTACIONES-CAMPING</dc:name>
+<ayto:numero>15</ayto:numero>
+<dc:identifier>15</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/14.rdf"><dc:name>ESTACIONES</dc:name>
+<ayto:numero>14</ayto:numero>
+<dc:identifier>14</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/13.rdf"><dc:name>LLUJA-CUETO</dc:name>
+<ayto:numero>13</ayto:numero>
+<dc:identifier>13</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/12.rdf"><dc:name>CARREFOUR</dc:name>
+<ayto:numero>12</ayto:numero>
+<dc:identifier>12</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/11.rdf"><dc:name>INT.AVDA.VALDECILLA-PLAZA ITALIA</dc:name>
+<ayto:numero>11</ayto:numero>
+<dc:identifier>11</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/4.rdf"><dc:name>B.PESQUERO-INT.SARDINERO/UNI</dc:name>
+<ayto:numero>4</ayto:numero>
+<dc:identifier>4</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/3.rdf"><dc:name>OJAIZ-SARDINERO/UNI/P.PEREDA</dc:name>
+<ayto:numero>3</ayto:numero>
+<dc:identifier>3</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/2.rdf"><dc:name>CORBAN-CONSUELO BERGES</dc:name>
+<ayto:numero>2</ayto:numero>
+<dc:identifier>2</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/1.rdf"><dc:name>A.ODRIOZOLA-PCTCAN/ADARZO</dc:name>
+<ayto:numero>1</ayto:numero>
+<dc:identifier>1</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.153Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/103.rdf"><dc:name>PE&#209;ACASTILLO-PLAZA DE ITALIA </dc:name>
+<ayto:numero>N3</ayto:numero>
+<dc:identifier>103</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.152Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/102.rdf"><dc:name>CORBAN-COMPLEJO por G. Davila</dc:name>
+<ayto:numero>N2</ayto:numero>
+<dc:identifier>102</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.152Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/101.rdf"><dc:name>CORBAN-G. ATECA por Valdenoja</dc:name>
+<ayto:numero>N1</ayto:numero>
+<dc:identifier>101</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.152Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/100.rdf"><dc:name>INT.VALDECILLA-INT SARDINERO</dc:name>
+<ayto:numero>LC</ayto:numero>
+<dc:identifier>100</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.152Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/99.rdf"><dc:name>LANZADERA</dc:name>
+<ayto:numero>99</ayto:numero>
+<dc:identifier>99</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.152Z</dc:modified>
+</rdf:Description>
+<rdf:Description rdf:about="http://datos.santander.es/api/datos/lineas_bus/72.rdf"><dc:name>LUIS QUINTANILLA C2</dc:name>
+<ayto:numero>7C2</ayto:numero>
+<dc:identifier>72</dc:identifier>
+<dc:modified>2019-12-16T19:01:48.152Z</dc:modified>
+</rdf:Description>
+
+</rdf:RDF>
