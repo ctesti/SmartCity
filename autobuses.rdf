@@ -10,7 +10,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0000</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0001.rdf">
@@ -18,7 +18,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0001</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0002.rdf">
@@ -26,7 +26,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0002</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0003.rdf">
@@ -34,7 +34,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0003</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0004.rdf">
@@ -42,7 +42,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0004</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0005.rdf">
@@ -50,7 +50,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0005</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0006.rdf">
@@ -58,7 +58,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0006</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0007.rdf">
@@ -66,7 +66,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0007</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0008.rdf">
@@ -74,7 +74,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0008</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0009.rdf">
@@ -82,7 +82,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0009</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0010.rdf">
@@ -90,7 +90,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0010</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0011.rdf">
@@ -98,7 +98,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0011</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0012.rdf">
@@ -106,7 +106,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0012</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0013.rdf">
@@ -114,7 +114,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0013</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0014.rdf">
@@ -122,7 +122,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0014</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0015.rdf">
@@ -130,7 +130,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0015</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0016.rdf">
@@ -138,7 +138,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0016</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0017.rdf">
@@ -146,7 +146,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0017</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0018.rdf">
@@ -154,7 +154,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0018</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/autobuses/0019.rdf">
@@ -162,7 +162,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <dc:identifier>0019</dc:identifier>
     <ayto:plazas>30</ayto:plazas>
     <ayto:plazasPMR>1</ayto:plazasPMR>
-    <ayto:linea>1</ayto:linea>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
 </rdf:Description>
 
 </rdf:RDF>
