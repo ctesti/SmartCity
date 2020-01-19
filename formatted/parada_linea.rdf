@@ -4,181 +4,181 @@ xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/3_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/144.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/3_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/144.rdf"/>
     <dc:identifier>3_1</dc:identifier>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/3_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/3_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/4_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/145.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/4_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/145.rdf"/>
     <dc:identifier>4_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/4_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/4_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/5_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/146.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/5_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/146.rdf"/>
     <dc:identifier>5_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/5_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/5_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/6_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/147.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/6_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/147.rdf"/>
     <dc:identifier>6_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/6_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/6_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/7_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/148.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/7_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/148.rdf"/>
     <dc:identifier>7_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/7_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/7_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/8_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/149.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/8_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/149.rdf"/>
     <dc:identifier>8_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/8_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/8_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/9_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/316.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/9_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/316.rdf"/>
     <dc:identifier>9_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/9_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/9_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/10_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/150.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/10_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/150.rdf"/>
     <dc:identifier>10_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/10_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/10_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/11_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/129.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/11_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/129.rdf"/>
     <dc:identifier>11_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/11_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/11_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/12_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/151.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/12_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/151.rdf"/>
     <dc:identifier>12_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/12_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/12_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/13_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/152.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/13_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/152.rdf"/>
     <dc:identifier>13_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/13_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/13_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/14_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/153.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/14_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/153.rdf"/>
     <dc:identifier>14_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/14_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/14_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/15_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/154.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/15_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/154.rdf"/>
     <dc:identifier>15_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/15_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/15_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/16_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/164.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/16_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/164.rdf"/>
     <dc:identifier>16_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/16_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/16_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/17_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/214.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/17_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/214.rdf"/>
     <dc:identifier>17_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/17_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/17_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/18_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/165.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/18_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/165.rdf"/>
     <dc:identifier>18_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/18_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/18_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/19_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/166.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/19_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/166.rdf"/>
     <dc:identifier>19_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/19_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/19_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/20_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/167.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/20_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/167.rdf"/>
     <dc:identifier>20_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/20_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/20_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/21_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/168.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/21_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/168.rdf"/>
     <dc:identifier>21_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/21_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/21_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/22_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/169.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/22_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/169.rdf"/>
     <dc:identifier>22_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/22_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/22_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/23_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/170.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/23_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/170.rdf"/>
     <dc:identifier>23_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/23_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/23_1_100000.rdf"/>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/parada_linea/24_1.rdf">
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/172.rdf"/>
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/parada_linea/24_1.rdf">
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/172.rdf"/>
     <dc:identifier>24_1</dc:identifier>
     <dc:modified>2019-12-16T19:01:50.654Z</dc:modified>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>vuelta</ayto:sentido>
-    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/hora_linea/24_1_100000.rdf"/>
+    <ayto:hora_linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/24_1_100000.rdf"/>
 </rdf:Description>
 
 

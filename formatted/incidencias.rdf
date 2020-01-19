@@ -5,21 +5,21 @@ xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
 >
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/incidencias/20200113120000-0000AAA-1.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/incidencias/20200113120000-0000AAA-1.rdf">
     <dc:identifier>20200113120000-0000AAA-1</dc:identifier>
     <ayto:tipo>multa</ayto:tipo>
-    <ayto:documento>https://github.com/ctesti/SmartCity/blob/master/incidencias/documentos/incidencia_20200113120000-0000AAA-1.pdf</ayto:documento>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
-    <ayto:matricula rdf:resource="https://github.com/ctesti/SmartCity/blob/master/autobuses/0000.rdf"/>
+    <ayto:documento>https://github.com/ctesti/SmartCity/blob/master/formatted/incidencias/documentos/incidencia_20200113120000-0000AAA-1.pdf</ayto:documento>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
+    <ayto:matricula rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/autobuses/0000.rdf"/>
     <xsd:datetime>2020-01-13T12:00:00</xsd:datetime>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/incidencias/20200111193000-0001AAA-1.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/incidencias/20200111193000-0001AAA-1.rdf">
     <dc:identifier>20200111193000-0001AAA-1</dc:identifier>
     <ayto:tipo>averia</ayto:tipo>
-    <ayto:documento>https://github.com/ctesti/SmartCity/blob/master/incidencias/documentos/incidencia_20200111193000-0001AAA-1.pdf</ayto:documento>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
-    <ayto:matricula rdf:resource="https://github.com/ctesti/SmartCity/blob/master/autobuses/0001.rdf"/>
+    <ayto:documento>https://github.com/ctesti/SmartCity/blob/master/formatted/incidencias/documentos/incidencia_20200111193000-0001AAA-1.pdf</ayto:documento>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
+    <ayto:matricula rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/autobuses/0001.rdf"/>
     <xsd:datetime>2020-01-11T19:30:00</xsd:datetime>
 </rdf:Description>
 

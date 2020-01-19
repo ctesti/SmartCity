@@ -6,7 +6,7 @@ xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:vivo="http://vivoweb.org/ontology/core#"
 >
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/52661.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/52661.rdf">
     <dc:name>Intercambiador del Sardinero</dc:name> <!-- antes ayto:parada -->
     <ayto:parada>516</ayto:parada>  <!-- antes ayto:numero -->
     <gn:coordY>4814377.655</gn:coordY>  <!-- COORD_Y -->
@@ -15,7 +15,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>52661</dc:identifier>  <!-- ID -->
     <dc:modified>2019-12-16T19:02:15.922Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/144.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/144.rdf">
     <dc:name>Jose M&#170; Cossio. 54</dc:name>
     <ayto:parada>3</ayto:parada>
     <gn:coordY>4812342.77</gn:coordY>
@@ -24,7 +24,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>144</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.147Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/145.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/145.rdf">
     <dc:name>Jose Maria Cossio 33</dc:name>
     <ayto:parada>4</ayto:parada>
     <gn:coordY>4812386.0704</gn:coordY>
@@ -33,7 +33,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>145</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.147Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/146.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/146.rdf">
     <dc:name>Jose Maria Cossio 17</dc:name>
     <ayto:parada>5</ayto:parada>
     <gn:coordY>4812414.5903</gn:coordY>
@@ -42,7 +42,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>146</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/147.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/147.rdf">
     <dc:name>Jose Maria Cossio 1</dc:name>
     <ayto:parada>6</ayto:parada>
     <gn:coordY>4812415.3897</gn:coordY>
@@ -51,7 +51,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>147</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/148.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/148.rdf">
     <dc:name>Manuel Llano</dc:name>
     <ayto:parada>7</ayto:parada>
     <gn:coordY>4812220.9452</gn:coordY>
@@ -60,7 +60,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>148</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/149.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/149.rdf">
     <dc:name>Instituto Torres Quevedo</dc:name>
     <ayto:parada>8</ayto:parada>
     <gn:coordY>4812112.4612</gn:coordY>
@@ -69,7 +69,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>149</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/316.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/316.rdf">
     <dc:name>Valdecilla</dc:name>
     <ayto:parada>9</ayto:parada>
     <gn:coordY>4812149.0103</gn:coordY>
@@ -78,7 +78,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>316</dc:identifier>
     <dc:modified>2019-12-16T19:02:14.054Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/150.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/150.rdf">
     <dc:name>Cuatro Caminos</dc:name>
     <ayto:parada>10</ayto:parada>
     <gn:coordY>4812298.0927</gn:coordY>
@@ -87,7 +87,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>150</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/129.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/129.rdf">
     <dc:name>San Fernando</dc:name>
     <ayto:parada>11</ayto:parada>
     <gn:coordY>4812459.3555</gn:coordY>
@@ -96,7 +96,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>129</dc:identifier>
     <dc:modified>2019-12-16T19:02:10.812Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/151.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/151.rdf">
     <dc:name>Jesus de Monasterio 21</dc:name>
     <ayto:parada>12</ayto:parada>
     <gn:coordY>4812617.1079</gn:coordY>
@@ -105,7 +105,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>151</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.148Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/152.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/152.rdf">
 <dc:name>Ayuntamiento</dc:name>
     <ayto:parada>13</ayto:parada>
     <gn:coordY>4812586.6364</gn:coordY>
@@ -114,7 +114,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>152</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.27Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/153.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/153.rdf">
     <dc:name>Correos</dc:name>
     <ayto:parada>14</ayto:parada>
     <gn:coordY>4812585.0755</gn:coordY>
@@ -123,7 +123,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>153</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.27Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/154.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/154.rdf">
     <dc:name>Jardines de Pereda</dc:name>
     <ayto:parada>15</ayto:parada>
     <gn:coordY>4812609.8756</gn:coordY>
@@ -132,7 +132,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>154</dc:identifier>
     <dc:modified>2019-12-16T19:02:11.27Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/164.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/164.rdf">
     <dc:name>Puertochico</dc:name>
     <ayto:parada>16</ayto:parada>
     <gn:coordY>4812655.3955</gn:coordY>
@@ -141,7 +141,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>164</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.416Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/214.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/214.rdf">
     <dc:name>Castelar</dc:name>
     <ayto:parada>17</ayto:parada>
     <gn:coordY>4812715.1614</gn:coordY>
@@ -150,7 +150,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>214</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.879Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/165.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/165.rdf">
     <dc:name>Reina Victoria 18</dc:name>
     <ayto:parada>18</ayto:parada>
     <gn:coordY>4812788.3749</gn:coordY>
@@ -159,7 +159,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>165</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.416Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/166.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/166.rdf">
     <dc:name>Avenida Reina Victoria </dc:name>
     <ayto:parada>19</ayto:parada>
     <gn:coordY>4812904.9478</gn:coordY>
@@ -168,7 +168,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>166</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.416Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/167.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/167.rdf">
     <dc:name>Gonzalez Riancho</dc:name>
     <ayto:parada>20</ayto:parada>
     <gn:coordY>4813101.0766</gn:coordY>
@@ -177,7 +177,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>167</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/168.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/168.rdf">
     <dc:name>La Magdalena</dc:name>
     <ayto:parada>21</ayto:parada>
     <gn:coordY>4813366.4679</gn:coordY>
@@ -186,7 +186,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>168</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/169.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/169.rdf">
     <dc:name>Luis Martinez</dc:name>
     <ayto:parada>22</ayto:parada>
     <gn:coordY>4813630.9192</gn:coordY>
@@ -195,7 +195,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>169</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/170.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/170.rdf">
     <dc:name>Plaza de Italia</dc:name>
     <ayto:parada>23</ayto:parada>
     <gn:coordY>4813753.4593</gn:coordY>
@@ -204,7 +204,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>170</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/171.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/171.rdf">
     <dc:name>Piquio </dc:name>
     <ayto:parada>24</ayto:parada>
     <gn:coordY>4813991.1318</gn:coordY>
@@ -213,7 +213,7 @@ xmlns:vivo="http://vivoweb.org/ontology/core#"
     <dc:identifier>171</dc:identifier>
     <dc:modified>2019-12-16T19:02:12.417Z</dc:modified>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/paradas/172.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/172.rdf">
     <dc:name>Doctor Fleming </dc:name>
     <ayto:parada>25</ayto:parada>
     <gn:coordY>4814143.5521</gn:coordY>

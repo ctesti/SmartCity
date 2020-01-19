@@ -5,38 +5,38 @@ xmlns:ayto="http://datos.santander.es#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
 >
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120000-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/tickets/20200113120000-1-3.rdf">
     <dc:identifier>20200113120000-1-3</dc:identifier>
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/144.rdf"/>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/144.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:00:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120200-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/tickets/20200113120200-1-3.rdf">
     <dc:identifier>20200113120200-1-3</dc:identifier>
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/145.rdf"/>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/145.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:02:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120500-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/tickets/20200113120500-1-3.rdf">
     <dc:identifier>20200113120500-1-3</dc:identifier>
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/146.rdf"/>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/146.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:05:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113120700-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/tickets/20200113120700-1-3.rdf">
     <dc:identifier>20200113120700-1-3</dc:identifier>
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/147.rdf"/>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/147.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:07:00</xsd:datetime>
 </rdf:Description>
-<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/tickets/20200113121100-1-3.rdf">
+<rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/tickets/20200113121100-1-3.rdf">
     <dc:identifier>20200113121100-1-3</dc:identifier>
-    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/paradas/148.rdf"/>
-    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/lineas/1.rdf"/>
+    <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/148.rdf"/>
+    <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
     <ayto:sentido>ida</ayto:sentido>
     <xsd:datetime>2020-01-13T12:11:00</xsd:datetime>
 </rdf:Description>
