@@ -42,7 +42,7 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
     <ayto:parada rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/paradas/144.rdf"/>
     <dc:identifier>3_1_104000</dc:identifier>
     <ayto:linea rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/lineas/1.rdf"/>
-    <ayto:hora_siguiente rdf:resource=>3_1_105000
+    <ayto:hora_siguiente rdf:resource="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/3_1_105000.rdf"/>
     <dc:modified>2019-12-16T19:02:31.754Z</dc:modified>
 </rdf:Description>
 <rdf:Description rdf:about="https://github.com/ctesti/SmartCity/blob/master/formatted/hora_linea/3_1_105000.rdf">
